@@ -23,7 +23,7 @@ It allows you to fetch detailed information about any Zcash block by entering it
 
 
 ## Install
-- Clone this repo
+- `git clone https://github.com/roguehashrate/zecret-explorer.git`
 - `cd` into the directory
 - Run `python3 main.py`
 - It should be running now, just follow the instructions :)
